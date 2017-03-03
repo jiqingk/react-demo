@@ -11,9 +11,10 @@ Amaze UI React 快速入门套件，基于 React、Amaze UI 组件、react-route
 
 ###安装amazeui
 
-、、、
+```
 npm install amazeui-react
-、、、
+```
+
 ### 开发
 
 ```
